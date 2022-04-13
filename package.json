@@ -1,0 +1,17 @@
+{
+  "name": "semaphore-project-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@zk-kit/identity": "^1.4.1",
+    "@zk-kit/incremental-merkle-tree": "^0.4.3",
+    "@zk-kit/protocols": "^1.11.0",
+    "circomlibjs": "0.0.8",
+    "hardhat": "^2.9.3",
+    "hardhat-dependency-compiler": "^1.1.2"
+  },
+  "dependencies": {
+    "@appliedzkp/semaphore-contracts": "^0.8.0"
+  }
+}
